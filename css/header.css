@@ -1,0 +1,15 @@
+.logo-header {
+  text-transform: uppercase;
+  font-size: 18px;
+  font-family: Raleway;
+  font-weight: 700;
+  line-height: 1.17;
+}
+nav ul {
+  color: #2e2f42;
+}
+
+address ul {
+  color: #434455;
+}
+

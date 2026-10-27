@@ -1,0 +1,40 @@
+body {
+  font-family: Roboto, sans-serif;
+  background-color: #fff;;
+}
+a {
+  text-decoration: none;
+  color: inherit;
+  font-size: 16px;
+  line-height: 1.5;
+}
+a:hover {
+  color: #404bbf;
+}
+
+li {
+  list-style-type: none;
+}
+h1 {
+  font-size: 56px;
+  color: #fff;
+  font-weight: 700;
+  line-height: 1.07;
+}
+h2 {
+  font-size: 36px;
+  color: #2e2f42;
+  line-height: 1.2;
+}
+h3 {
+  font-size: 20px;
+  color: #2e2f42;
+}
+p {
+  color: #434455;
+  line-height: 1.5;
+}
+.logo-span {
+  color: #4d5ae5;
+  line-height: 1.17%;
+}
