@@ -1,7 +1,21 @@
-#team {
-    background-color: #f4f4fd;
+.team {
+  background-color: #f4f4fd;
 }
-
+.team-title {
+  text-align: center;
+  line-height: 1.11;
+  letter-spacing: 0.02em;
+}
 .team-list {
-    background-color: #fff;
+  background-color: #fff;
+}
+.team-card-title {
+  text-align: center;
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.2;
+}
+.team-card-text {
+  text-align: center;
+  letter-spacing: 0.02em;
 }
